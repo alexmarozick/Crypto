@@ -13,3 +13,12 @@ deactivate
 
 
 For some reason source Scripts/activate works for me.
+Source: https://python.land/virtual-environments/virtualenv
+
+
+# Installing Packages (i.e. Django)
+1) add package name to requirements.txt so collaborators have the same dependencies
+2) activate venv
+3) pip install -r requirements.txt
+
+For more info, go here: https://note.nkmk.me/en/python-pip-install-requirements/
